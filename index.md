@@ -17,7 +17,7 @@ We reply within 48 hours.
 Press and hold anywhere on the map. A sheet will open letting you name the spot, add a note, and pick a category (Surf, Work, Stay, Food, Nature, Photo Spot, Beach, Nightlife).
 
 **Why can't I drop more pins?**
-Free accounts can drop up to 3 waypoints. Upgrade to Waypoint Pro to drop unlimited waypoints.
+Free accounts can drop up to 5 waypoints. Upgrade to Waypoint Pro to drop unlimited waypoints.
 
 **What do I get with Waypoint Pro?**
 
