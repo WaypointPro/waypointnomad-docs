@@ -1,3 +1,4 @@
+# Waypoint Nomad
 # Terms of Use
 
 **Last updated: April 2026**
