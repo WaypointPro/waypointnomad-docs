@@ -91,4 +91,4 @@ These Terms are governed by the laws of California, United States. Any disputes 
 
 ## Contact
 
-For questions about these Terms, see our [Support page](https://waypointpro.github.io/waypointnomad-docs/).
+For questions about these Terms, see our [Support page](https://waypointpro.github.io/waypointnomad-docs/index).
