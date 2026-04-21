@@ -53,7 +53,7 @@ We do not sell your data. We do not share your information with third parties ex
 
 ## Your Rights
 
-You can delete your waypoints and comments at any time within the app. For account deletion requests, see our [Support page](https://waypointpro.github.io/waypointnomad-docs/).
+You can delete your waypoints and comments at any time within the app. For account deletion requests, see our [Support page](https://waypointpro.github.io/waypointnomad-docs/index).
 
 ## Children's Privacy
 
@@ -65,4 +65,4 @@ We may update this policy from time to time. Continued use of the app after chan
 
 ## Contact
 
-For questions about this policy, see our [Support page](https://waypointpro.github.io/waypointnomad-docs/).
+For questions about this policy, see our [Support page](https://waypointpro.github.io/waypointnomad-docs/index).
