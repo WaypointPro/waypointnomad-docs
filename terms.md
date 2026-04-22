@@ -5,19 +5,19 @@
 
 ## Overview
 
-Welcome to Waypoint Nomad ("we," "our," or "us"), a community map app for digital nomads. By downloading, installing, or using the app, you agree to these Terms of Use. If you do not agree, do not use the app.
+Welcome to WaypointNomad ("we," "our," or "us"), a community map app for digital nomads. By downloading, installing, or using the app, you agree to these Terms of Use. If you do not agree, do not use the app.
 
 ## Eligibility
 
-You must be at least 13 years old to use Waypoint Nomad.
+You must be at least 13 years old to use WaypointNomad.
 
 ## Your Account
 
-You don't need to provide personal details to use Waypoint Nomad. Your username may be auto-generated or chosen by you. You are responsible for any activity that occurs under your account.
+You don't need to provide personal details to use WaypointNomad. Your username may be auto-generated or chosen by you. You are responsible for any activity that occurs under your account.
 
 ## User Content
 
-Waypoint Nomad lets you post waypoints, comments, check-ins, and other content ("User Content").
+WaypointNomad lets you post waypoints, comments, check-ins, and other content ("User Content").
 
 You retain ownership of your User Content. By posting it in the app, you grant us a worldwide, non-exclusive, royalty-free license to display, host, and distribute it within the app.
 
@@ -44,7 +44,7 @@ You agree not to:
 
 ## Subscriptions
 
-Waypoint Nomad offers optional subscriptions ("Waypoint Pro") in weekly, monthly, and yearly durations.
+WaypointNomad offers optional subscriptions ("WaypointNomad Pro") in weekly, monthly, and yearly durations.
 
 **Billing:** Payments are charged to your Apple ID upon purchase.
 
@@ -52,7 +52,7 @@ Waypoint Nomad offers optional subscriptions ("Waypoint Pro") in weekly, monthly
 
 **Auto-Renewal:** Subscriptions renew automatically unless you cancel at least 24 hours before the current period ends. Your Apple ID will be charged within 24 hours of the period ending.
 
-**Cancellation:** Cancel anytime through your Apple ID subscription settings: Settings > [Your Apple ID] > Subscriptions > Waypoint Nomad.
+**Cancellation:** Cancel anytime through your Apple ID subscription settings: Settings > [Your Apple ID] > Subscriptions > WaypointNomad.
 
 **Refunds:** Refunds are handled by Apple. Request refunds at https://reportaproblem.apple.com.
 
