@@ -1,4 +1,4 @@
-# Waypoint Nomad
+# WaypointNomad
 # Support
 
 Need help? We're here.
@@ -39,7 +39,7 @@ Open the iOS Settings app, then:
 Your access continues until the end of the current billing period.
 
 **My subscription didn't unlock Pro features.**
-Open the Waypoint Nomad paywall and tap "Restore Purchases." If that doesn't work, contact the developer at the email above with your Apple receipt.
+Open the WaypointNomad paywall and tap "Restore Purchases." If that doesn't work, contact the developer at the email above with your Apple receipt.
 
 **How do I get a refund?**
 Refunds are handled by Apple. Visit https://reportaproblem.apple.com, sign in with your Apple ID, and request a refund for your purchase.
@@ -58,8 +58,8 @@ Tap your waypoint, then tap the trash icon in the popup. You can only delete way
 **How do I delete my account?**
 Email the developer from the email associated with your account. We'll delete your account and associated personal information within 30 days.
 
-**Does Waypoint Nomad track my location?**
-Only while the app is open and only to show nearby waypoints and distances. We never track location in the background. You can revoke location access anytime in iOS Settings > Privacy & Security > Location Services > Waypoint Nomad.
+**Does WaypointNomad track my location?**
+Only while the app is open and only to show nearby waypoints and distances. We never track location in the background. You can revoke location access anytime in iOS Settings > Privacy & Security > Location Services > WaypointNomad.
 
 **Why are some pins "locked"?**
 Legendary pins — waypoints that have received exceptional community votes — are available to Pro subscribers. Free users get a small number of free legendary unlocks.
@@ -69,7 +69,7 @@ Surf, Work, Stay, Food, Nature, Photo Spot, Beach, and Nightlife.
 
 ## About
 
-Waypoint Nomad is a community-powered map for digital nomads. Drop pins at spots worth knowing — cafés with great wifi, hidden beaches, coworking spaces, photo-worthy viewpoints — and see what other nomads have discovered nearby.
+WaypointNomad is a community-powered map for digital nomads. Drop pins at spots worth knowing — cafés with great wifi, hidden beaches, coworking spaces, photo-worthy viewpoints — and see what other nomads have discovered nearby.
 
 Real intel from real travelers. No paid listings. No fake reviews.
 
